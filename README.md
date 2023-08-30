@@ -8,7 +8,7 @@
      > JS, Selenium, AWS, Terraform, Python, SQL. 
     
 - 📫 How to reach me ...
-     > Inbox me on LinkedIn: linkedin.com/in/metz-i
+     > Inbox me on LinkedIn: <linkedin.com/in/metz-i>
   
 <!---
 metz-i/metz-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
