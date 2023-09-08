@@ -5,7 +5,7 @@
      > Data analytics apps for martech and consumer goods marketing
 
 - 🌱 I’m currently learning ...
-     > JS, Selenium, AWS, Terraform, Python, SQL. 
+     > JS, AWS, Terraform, Python, SQL. 
     
 - 📫 How to reach me ...
      > Inbox me on LinkedIn: <linkedin.com/in/metz-i>
