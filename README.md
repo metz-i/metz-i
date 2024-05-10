@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @metz-i
   
 - 👀 I’m interested in ...
-     > Web apps built on Python / JS / React
-     > Data analytics apps for martech and consumer goods marketing
+     > Web apps built on React / Springboot, data analytics apps, & data hygiene.
 
 - 🌱 I’m currently learning ...
-     > JS, Python, HTML/CSS, SQL. 
+     > Java / Springboot / Python
     
 - 📫 How to reach me ...
      > Inbox me on LinkedIn: <linkedin.com/in/metz-i>
